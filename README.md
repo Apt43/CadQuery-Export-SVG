@@ -44,16 +44,21 @@ This is the screenshot from <cite>cq-editor</cite>:
 The first output from the code:
 
 <figure style='border: thin solid blue;'>
-    <img src='TestExportSvg-1.svg' />
-    <figcaption>Output file TestExportSvg-1.svg.</figcaption>
+    <img src='Media/TestExportSvg-1.png' />
+    <figcaption>Output file TestExportSvg-1.svg (see Note below).</figcaption>
 </figure>
 
 The second output from the code:
 
 <figure style='border: thin solid blue;'>
-    <img src='Media/TestExportSvg-2.svg' />
-    <figcaption>Output file TestExportSvg-2.svg.</figcaption>
+    <img src='Media/TestExportSvg-2.png' />
+    <figcaption>Output file TestExportSvg-2.svg (see Note below).</figcaption>
 </figure>
+
+**Note: The actual image files shown here are .png files instead of .svg files. I had
+problem showing .svg files with
+relative path, on Github. The .png files were converted from .svg
+files. The original .svg files are kept in the Media subfolder.**
 
 ## Resources
 
