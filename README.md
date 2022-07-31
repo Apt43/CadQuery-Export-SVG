@@ -44,7 +44,7 @@ This is the screenshot from <cite>cq-editor</cite>:
 The first output from the code:
 
 <figure style='border: thin solid blue;'>
-    <img src='Media/TestExportSvg-1.svg' />
+    <img src='./Media/TestExportSvg-1.svg' />
     <figcaption>Output file TestExportSvg-1.svg.</figcaption>
 </figure>
 
