@@ -1,3 +1,9 @@
+# ignore me
+.gitignore
+_Archive/
+_Private/
+_About*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
