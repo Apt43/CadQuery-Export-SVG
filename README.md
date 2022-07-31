@@ -45,20 +45,15 @@ The first output from the code:
 
 <figure style='border: thin solid blue;'>
     <img src='Media/TestExportSVG-1.svg' />
-    <figcaption>Output file TestExportSvg-1.svg (see Note below).</figcaption>
+    <figcaption>Output file TestExportSvg-1.svg.</figcaption>
 </figure>
 
 The second output from the code:
 
 <figure style='border: thin solid blue;'>
-    <img src='Media/TestExportSVG-2.svg' />
-    <figcaption>Output file TestExportSvg-2.svg (see Note below).</figcaption>
+    <img src='Media/TestExportSVG-2.svg'  style='border: thin solid blue;' />
+    <figcaption>Output file TestExportSvg-2.svg.</figcaption>
 </figure>
-
-**Note: The actual image files shown here are .png files instead of .svg files. I had
-problem showing .svg files with
-relative path, on Github. The .png files were converted from .svg
-files. The original .svg files are kept in the Media subfolder.**
 
 ## Resources
 
