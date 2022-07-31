@@ -36,22 +36,22 @@ show_object(r)
 
 This is the screenshot from <cite>cq-editor</cite>:
 
-<figure style='border: thin solid blue;'>
+<figure>
     <img src='Media/TestExportSvg-Screenshot-1.png' style='width: 400px;' />
     <figcaption>Screenshot.</figcaption>
 </figure>
 
 The first output from the code:
 
-<figure style='border: thin solid blue;'>
+<figure>
     <img src='Media/TestExportSVG-1.svg' />
     <figcaption>Output file TestExportSvg-1.svg.</figcaption>
 </figure>
 
 The second output from the code:
 
-<figure style='border: thin solid blue;'>
-    <img src='Media/TestExportSVG-2.svg'  style='border: thin solid blue;' />
+<figure>
+    <img src='Media/TestExportSVG-2.svg' />
     <figcaption>Output file TestExportSvg-2.svg.</figcaption>
 </figure>
 
